@@ -1,0 +1,63 @@
+<!doctype html>
+
+<html lang="en-us">
+
+	<head>
+		<title>Electricity Outages</title>
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/skeleton.css">
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="icon" href="img/favicon_tui.ico">
+	</head>
+
+	<body>
+<!-- #### Header ###### -->
+		<div class="container header">
+			<div class="site-header">
+				<div class="six columns nav-menu">
+					<ul class="horizontal-list">
+						<li ><a href="http://ioe-guikema.engin.umich.edu/index.html" target="_blank">Guikema&nbsp;Research</a></li>
+						<li > Electricity Outages </li>
+					</ul>
+				</div>
+			</div>
+		</div>
+<!-- #### Hello #### -->
+
+		<div class="pads">
+		</div>
+
+		<div class="container">
+			<div class="table_box">
+			<section class="row row-bottom first">
+
+				<div class="eight columns">
+					<h1>Electricity Outage Scrapers</h1>
+					<p>Status for electricity outage scrapers.</p>
+
+				</div><!--about me blurb-->
+
+			</section><!--about me-->
+
+
+
+<!--####### Projects and Pubs #####Projects and Pubs-->
+<section class="row">
+	<div class="one columns">
+	</div>
+	<div class="one columns  wrap">
+			<h4>HISTORY</h4>
+	</div>
+	<div class="two columns  wrap">
+			<h4>ID</h4>
+	</div>
+	<div class="two columns  wrap">
+			<h4>LAST SUCCESS</h4>
+	</div>
+	<div class="two columns wrap">
+			<h4>LAST FAILURE</h4>
+	</div>
+	<div class="two columns wrap ">
+			<h4>LAST DURATION</h4>
+
+</section>

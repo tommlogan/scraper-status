@@ -1,0 +1,20 @@
+<section class="row">
+	<div class="one columns">
+			<img class="post-thumbnail" src="{}.png">
+	</div>
+	<div class="one columns left">
+			<p>{}/10</p>
+	</div>
+	<div class="two columns">
+			<p>{}</p>
+	</div>
+	<div class="two columns ">
+			<p>{}</p>
+	</div>
+	<div class="two columns ">
+			<p>{}</p>
+	</div>
+	<div class="two columns ">
+			<p>{}</p>
+	</div>
+</section>
